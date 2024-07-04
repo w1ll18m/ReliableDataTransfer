@@ -1,4 +1,4 @@
-# William Liu CS 456 Assignment 2 Submission
+# Reliable Data Transfer Protocol Over Unreliable Channel
 
 The sender and receiver programs were tested on:
 1. ubuntu2204-002.student.cs.uwaterloo.ca running the network emulator program
